@@ -1,5 +1,7 @@
 # PCT-Python-Coding-Tools
 
+Here funny little tricks are shared.
+
 <details>
 <summary>cuda_free</summary>
 
