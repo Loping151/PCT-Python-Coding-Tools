@@ -1,1 +1,1 @@
-from . import cuda_free
+from .cuda_free import cuda_free_always
